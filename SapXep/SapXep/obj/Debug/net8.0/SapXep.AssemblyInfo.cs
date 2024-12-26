@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SapXep")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c2b5a50e7c1b35af180d77c712ccfa442ced353")]
 [assembly: System.Reflection.AssemblyProductAttribute("SapXep")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SapXep")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
